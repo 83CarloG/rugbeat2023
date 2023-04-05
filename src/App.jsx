@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className="main_container">
       <Footer />
-      <Hero />
+      <Hero name="Prova" />
     </div>
   );
 };
