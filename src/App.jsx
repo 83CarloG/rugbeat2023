@@ -1,12 +1,14 @@
 import { createRoot } from "react-dom/client";
 import Hero from "./components/Hero";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
     <div className="main_container">
       <Header />
-      <Hero name="Prova" />
+      <Hero />
+      <Footer />
     </div>
   );
 };

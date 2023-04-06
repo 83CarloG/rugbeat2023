@@ -11,7 +11,7 @@ const Header = () => {
           <li>
             <a href="https://www.facebook.com/festivalrugby">
               <i className="fa-regular fa-envelope fa-2xl"></i>
-              <span className="sr-only">Facebook</span>
+              <span className="sr-only">email</span>
             </a>
           </li>
           <li>
