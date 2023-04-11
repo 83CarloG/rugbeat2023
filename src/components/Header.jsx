@@ -1,4 +1,4 @@
-import Logo from "../img/Rugbeat_Logo_Ananas_Data.svg";
+import Logo from "../img/Rugbeat_Logo_Ananas.svg";
 
 const Header = () => {
   return (
