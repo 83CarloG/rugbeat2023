@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section className="hero">
       <div className="hero-content">
-        17_18 GIUGNO - BULE'
+        17_18 GIUGNO BULE'
         <Countdown date="2023-06-17T10:00:00" />
       </div>
     </section>
