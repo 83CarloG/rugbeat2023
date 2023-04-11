@@ -1,7 +1,12 @@
+import Countdown from "./Countdown";
+/* eslint-disable react/no-unescaped-entities */
 const Hero = () => {
   return (
     <section className="hero">
-      <div className="hero-content">Stay Tuned</div>
+      <div className="hero-content">
+        17_18 GIUGNO AL BULE'
+        <Countdown date="2023-06-17T23:59:59" />
+      </div>
     </section>
   );
 };
