@@ -9,7 +9,7 @@ const Header = () => {
       <div className="footer-social">
         <ul>
           <li>
-            <a href="https://www.facebook.com/festivalrugby">
+            <a href="mailto:rugbeatfest@gmail.com">
               <i className="fa-regular fa-envelope fa-2xl"></i>
               <span className="sr-only">email</span>
             </a>

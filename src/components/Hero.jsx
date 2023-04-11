@@ -5,7 +5,7 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-content">
         17_18 GIUGNO AL BULE'
-        <Countdown date="2023-06-17T23:59:59" />
+        <Countdown date="2023-06-17T10:00:00" />
       </div>
     </section>
   );
