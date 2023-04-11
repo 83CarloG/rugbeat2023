@@ -15,7 +15,7 @@ const Header = () => {
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/festivalrugby">
+            <a href="https://instagram.com/rugbeatfest?igshid=YmMyMTA2M2Y=">
               <i className="fa-brands fa-instagram fa-2xl"></i>
               <span className="sr-only">Instagram</span>
             </a>
